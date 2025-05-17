@@ -1,8 +1,8 @@
-# 🖼️ Adivina: Imágenes – Script Automático
+# 🖼️ Guess It: Images – Auto Script
 
-Un práctico script diseñado específicamente para el juego **“Adivina Imágenes”** en Roblox. Automatiza la detección del nombre del modelo más cercano, facilitando el juego sin esfuerzo manual.
+A handy script specifically designed for the **“Guess It: Images”** game on Roblox. It automates the detection of the closest model name, making the game effortless without manual input.
 
-Inspirado en el estilo de *Tower of Guessing*, este script te proporciona una interfaz intuitiva y controles rápidos para mejorar tu experiencia.
+Inspired by the style of *Tower of Guessing*, this script provides an intuitive interface and quick controls to enhance your experience.
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScriptX/Adivina-Imagenes-Script/refs/heads/main/Adivina%20Imagenes%20by%20AlexScriptX.lua"))()
@@ -10,47 +10,46 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScriptX/Adivina-I
 
 ---
 
-## ✨ Características
+## ✨ Features
 
-### 🔍 Detección Automática
-- Escanea todas las categorías y pisos del juego.
-- Encuentra y muestra automáticamente el **nombre del modelo más cercano**.
+### 🔍 Automatic Detection
+- Scans all categories and floors in the game.
+- Automatically finds and displays the **name of the closest model**.
 
-### 🧠 Interfaz Intuitiva
-- UI minimalista que muestra el nombre detectado en tiempo real.
-- No requiere interacción compleja, todo ocurre automáticamente.
+### 🧠 Intuitive Interface
+- Minimalist UI that shows the detected name in real-time.
+- No complex interaction required, everything happens automatically.
 
-### ⚡ Funciones Rápidas
-- Botón en pantalla para **copiar el nombre del modelo** al portapapeles.
-- Funciones clave accesibles con simples combinaciones de teclado.
+### ⚡ Quick Functions
+- On-screen button to **copy the model name** to your clipboard.
+- Key functions are accessible with simple keyboard shortcuts.
 
 ---
 
-## 🎛️ Controles / Keybinds
+## 🎛️ Controls / Keybinds
 
-| Tecla | Acción                            |
+| Key   | Action                            |
 |:-----:|-----------------------------------|
-| `Q`   | 📋 Copiar el nombre del modelo cercano. |
-| `M`   | ❌ Detener el script y ocultar la interfaz. |
+| `Q`   | 📋 Copy the name of the closest model. |
+| `M`   | ❌ Stop the script and hide the interface. |
 
 ---
 
-## 📎 Instrucciones
+## 📎 Instructions
 
-1. Ejecuta el script dentro del juego **“Adivina Imágenes”**.
-2. La interfaz mostrará automáticamente el nombre detectado.
-3. Usa `Q` para copiarlo rápidamente o `M` para cerrar todo cuando termines.
-
----
-
-## 🎮 Link del juego
-
-https://www.roblox.com/es/games/9306257030/Guess-It-Images
-
+1. Run the script inside the **“Guess It: Images”** game.
+2. The interface will automatically display the detected name.
+3. Use `Q` to quickly copy it or `M` to close everything when you're done.
 
 ---
 
-## 🧑‍💻 Autor
+## 🎮 Game Link
 
-Desarrollado por **AlexScriptX**  
-💡 Ideal para quienes desean agilizar partidas sin escribir manualmente cada respuesta.
+https://www.roblox.com/games/9306257030/Guess-It-Images
+
+---
+
+## 🧑‍💻 Author
+
+Developed by **AlexScriptX**  
+💡 Ideal for those who want to speed up gameplay without manually typing each answer.
